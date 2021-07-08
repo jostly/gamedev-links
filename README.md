@@ -2,6 +2,11 @@
 
 Trying to organise my links from being spread out over browser bookmarks, twitter likes, etc.
 
+# Assets
+
+* Dungeon Pack CC0 https://twitter.com/KayLousberg/status/1329383542166614017
+* 
+
 # 3D modeling
 
 * Houdini, procedural generator with a Unity plugin: https://twitter.com/FarrukhAbdur/status/1373962403994611712
@@ -21,6 +26,8 @@ Trying to organise my links from being spread out over browser bookmarks, twitte
 
 * Stylised rendering thread: https://twitter.com/PhilippSeifried/status/1362466015976783872
 * Rendering a waterline: https://twitter.com/_staggart_/status/1411339746828226561
+* Ghibli-style (only pictures): https://twitter.com/harryh___h/status/1333083537713504262
+* 
 
 # Media
 
@@ -34,6 +41,7 @@ Trying to organise my links from being spread out over browser bookmarks, twitte
 * 41 easing methods to make transitions nicer in Unity https://github.com/ryanslikesocool/Easings
 * an incredibly useful & simple tool for making quick edits to UV maps https://assetstore.unity.com/packages/tools/modeling/quveditor-70116
 * Ten productivity tips (thread): https://twitter.com/AlanZucconi/status/1356629337051721728
+* In parameters in Burst (blog): https://blog.unity.com/technology/in-parameters-in-burst
 * 
 
 # unitytips
@@ -50,3 +58,6 @@ Trying to organise my links from being spread out over browser bookmarks, twitte
 
 * Everything you need for optimal isometric triangle-grid heightfields: LOD, stitching, streaming tiles, transitions, minimizing sharp corners, and analysis vs. split quads. https://twitter.com/CasualEffects/status/1404109711373443080
 * using DrawMeshInstancedIndirect to draw *a lot* of single-triangle meshes with a geometry shader that grows a  procedural flower from a vertex (thread) https://twitter.com/HarryAlisavakis/status/1399331634508451843
+* Graphic template pack for itch.io https://jannikboysen.itch.io/easy-releasy
+* The easiest way to make a 1 dimension random noise loop on itself is to generate a 2d random noise and then move in circle on that noise..... https://twitter.com/grifdail/status/1329456356240334849
+* 
