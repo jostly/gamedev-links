@@ -11,4 +11,10 @@ Trying to organise my links from being spread out over browser bookmarks, twitte
 # WebGL
 
 * Responsive WebGL template: https://twitter.com/zerstoerer/status/1373300477459304452 https://github.com/sno/unity-webgl-responsive
+* Upload WebGL from Unity to itch.io: https://twitter.com/bartheijltjes/status/1367857292847296522
+
+
+# Rendering
+
+* Stylised rendering thread: https://twitter.com/PhilippSeifried/status/1362466015976783872
 * 
