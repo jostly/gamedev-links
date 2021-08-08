@@ -43,7 +43,7 @@ Trying to organise my links from being spread out over browser bookmarks, twitte
 * an incredibly useful & simple tool for making quick edits to UV maps https://assetstore.unity.com/packages/tools/modeling/quveditor-70116
 * Ten productivity tips (thread): https://twitter.com/AlanZucconi/status/1356629337051721728
 * In parameters in Burst (blog): https://blog.unity.com/technology/in-parameters-in-burst
-* 
+* UI: Layout container to size of largest child. https://forum.unity.com/threads/dynamic-width-of-panel-with-vertical-layoutgroup-with-buttons.766292/
 
 # unitytips
 
